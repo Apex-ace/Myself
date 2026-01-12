@@ -1,5 +1,3 @@
-import { SiGooglejemini } from "react-icons/si";
-
 export enum SkillNames {
   JS = "js",
   TS = "ts",

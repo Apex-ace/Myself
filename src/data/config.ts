@@ -1,8 +1,7 @@
 export const config = {
   title: "Ayush Mishra | Developer / Data Scientist / ML Engineer ",
   description: {
-    // 👇 THIS LINE WAS MISSING. Add it to fix the build error:
-    short: "Developer / Data Scientist / ML Engineer", 
+      short: "Developer / Data Scientist / ML Engineer", 
     
     long: "Explore the portfolio of Ayush Mishra, a developer and creative technologist specializing in interactive web, Data Scientist / ML Engineer. Discover the portfolio of Ayush, a full-stack developer creating interactive web experiences and innovative projects.",
   },
