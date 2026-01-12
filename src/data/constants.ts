@@ -277,7 +277,7 @@ export const EXPERIENCE: Experience[] = [
       "Architected 'OTA Console', an integrated OTA platform for seamless firmware management and deployment.",
       "Developed a real-time dashboard using React.js to monitor device connectivity and update status.",
       "Implemented secure API endpoints with Node.js to handle firmware distribution to edge devices.",
-      "Optimized AWS S3 bucket storage for proper documentaion for the firmware"
+      "Optimized AWS S3 bucket storage for proper documentation for the firmware.",
     ],
     skills: [
       SkillNames.REACT,
